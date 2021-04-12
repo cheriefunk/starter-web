@@ -16,7 +16,7 @@ this is a test
 
 ## How to Contribute
 
-## How to Contribute
+Please fork this repository and then issue pull requests for review.
 
 ## Copyright
 
